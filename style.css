@@ -1,0 +1,21 @@
+ h2{text-align: center; color: #239052 
+ }
+ h3{text-align: center; color: #239052}
+ .imagempizza
+ { justify-content: center;
+    align-items: center;
+   width: 100%;
+   height: auto;
+
+
+ }
+ body{
+    height: 100%;
+ width:  100%;
+ border: solid; color: #239052;
+ 
+     background: linear-gradient(165deg, rgba(247,224,208,1) 0%, rgba(247,224,208,1) 95%);  
+
+ } 
+  
+
